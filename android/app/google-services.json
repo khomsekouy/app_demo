@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "134344035709",
+    "project_id": "app-maps-73439",
+    "storage_bucket": "app-maps-73439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134344035709:android:049d822da4e609fce11014",
+        "android_client_info": {
+          "package_name": "com.custom.org.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134344035709-6iuch6oci11tpq8k5k1dbrardbr7apec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGTmvqY1EBFcNBUr4JKDPromUSd8GFg78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134344035709-6iuch6oci11tpq8k5k1dbrardbr7apec.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134344035709-6iihr7umilb92tpehcklt4elubnsq24r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appMaps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134344035709:android:a1a55b36759c8e9fe11014",
+        "android_client_info": {
+          "package_name": "com.example.app_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134344035709-6iuch6oci11tpq8k5k1dbrardbr7apec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGTmvqY1EBFcNBUr4JKDPromUSd8GFg78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134344035709-6iuch6oci11tpq8k5k1dbrardbr7apec.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134344035709-6iihr7umilb92tpehcklt4elubnsq24r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appMaps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134344035709:android:77488c26d4755025e11014",
+        "android_client_info": {
+          "package_name": "kh.com.aditi.ebc.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134344035709-6iuch6oci11tpq8k5k1dbrardbr7apec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGTmvqY1EBFcNBUr4JKDPromUSd8GFg78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134344035709-6iuch6oci11tpq8k5k1dbrardbr7apec.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134344035709-6iihr7umilb92tpehcklt4elubnsq24r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appMaps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

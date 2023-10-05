@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57621129155",
+    "project_id": "ebc-driver-app",
+    "storage_bucket": "ebc-driver-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57621129155:android:9b0fe47302e03f734d3f76",
+        "android_client_info": {
+          "package_name": "kh.com.aditi.ebc.driver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8hq7tYW5SJAtpZ8rNjQbNfVVnc0LQZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

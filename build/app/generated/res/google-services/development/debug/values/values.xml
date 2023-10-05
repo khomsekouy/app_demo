@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">57621129155</string>
+    <string name="google_api_key" translatable="false">AIzaSyD-8hq7tYW5SJAtpZ8rNjQbNfVVnc0LQZU</string>
+    <string name="google_app_id" translatable="false">1:57621129155:android:9fe677badd9ec7924d3f76</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD-8hq7tYW5SJAtpZ8rNjQbNfVVnc0LQZU</string>
+    <string name="google_storage_bucket" translatable="false">ebc-driver-app.appspot.com</string>
+    <string name="project_id" translatable="false">ebc-driver-app</string>
+</resources>

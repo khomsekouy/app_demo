@@ -1,0 +1,131 @@
+name: driver_app
+description: EBC Driver Mobile Application
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  bloc: ^8.1.2
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.18.0
+  loading_indicator: ^3.1.1
+  pin_code_fields: ^8.0.1
+
+  shared_preferences: ^2.1.2
+
+  # Network
+  dio: ^5.1.2
+  http: ^1.1.0
+
+  # State management
+  equatable: ^2.0.5
+  flutter_riverpod: ^2.3.6
+  stream_transform: ^2.1.0
+
+  # Navigator & Route
+  go_router: ^10.1.2
+  url_launcher: ^6.1.12
+
+  # Utility
+  jwt_decoder: any
+#  client_information: ^2.0.4
+  after_layout: ^1.2.0
+  clipboard: ^0.1.3
+
+  # Icons and Image
+  cupertino_icons: ^1.0.5
+  flutter_svg: ^2.0.7
+  carousel_slider: ^4.2.1
+  smooth_page_indicator: ^1.1.0
+  flutter_phosphor_icons: ^0.0.1+6
+  photo_view: ^0.14.0
+  like_button: ^2.0.5
+  shimmer: ^3.0.0
+  another_flushbar: ^1.12.30
+#  flutter_image_compress: ^2.0.4
+  dotted_line: ^3.2.2
+
+  # UI Helper
+  loader_overlay: ^2.2.0
+  flutter_html: ^3.0.0-beta.2
+
+#  flutter_local_notifications: ^14.1.1
+
+  # Firebase Package
+  firebase_core: ^2.17.0
+  firebase_analytics: ^10.4.0
+#  firebase_crashlytics: ^3.3.0
+  firebase_messaging: ^14.6.1
+  # ADITI Packages
+  http_client:
+    path: package/http_client
+  image_picker: ^1.0.4
+  cached_network_image: ^3.2.3
+  lottie: ^2.3.2
+  dotted_border: ^2.0.0+3
+  google_maps_flutter: ^2.5.0
+  flutter_polyline_points: ^2.0.0
+  custom_date_range_picker: ^1.0.10
+  calendar_date_picker2: ^0.5.3
+  confetti: ^0.7.0
+  location: ^5.0.2+1
+  firebase_crashlytics: ^3.3.5
+
+dev_dependencies:
+  bloc_test: ^9.1.2
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.0
+  very_good_analysis: ^5.0.0
+  build_runner: ^2.0.3
+  flutter_gen_runner: ^5.3.1
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: false
+  image_path: "assets/logo/icon.png"
+  min_sdk_version: 21
+
+flutter_gen:
+  output: lib/gen/ # Optional (default: lib/gen/)
+  line_length: 80 # Optional (default: 80)
+
+  # Optional
+  integrations:
+    flutter_svg: true
+    flare_flutter: true
+    flutter_image: true
+    rive: true
+    lottie: true
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/
+    - assets/logo/
+    - assets/fonts/
+    - assets/svg/
+    - assets/animations/
+
+  fonts:
+    - family: Kantumruy Pro
+      fonts:
+        - asset: assets/fonts/kantumruy_pro/KantumruyPro-Light.ttf
+          weight: 300
+        - asset: assets/fonts/kantumruy_pro/KantumruyPro-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/kantumruy_pro/KantumruyPro-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/kantumruy_pro/KantumruyPro-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/kantumruy_pro/KantumruyPro-Bold.ttf
+          weight: 700
